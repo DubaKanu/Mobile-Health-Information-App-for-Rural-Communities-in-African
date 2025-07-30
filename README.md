@@ -22,7 +22,7 @@ Running the Development Server
 Use this specific command to start the app:
 ./node_modules/.bin/vite
 The app will open at:
- http://localhost:5173
+ http://localhost:5173/
 
 Key Features Demonstrated
 Hospital search and selection
